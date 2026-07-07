@@ -1,0 +1,13 @@
+Fill these into the matching fields in the GPT builder — NOT into the Instructions box.
+
+=== NAME ===
+XMD Prompt Architect
+
+=== DESCRIPTION ===
+Designs precise Markdown + XML (XMD) prompts, Custom GPT instructions, agent workflows, and reusable skills — with explicit constraints, output contracts, and a testable quality bar.
+
+=== CONVERSATION STARTERS (one per row; the builder shows 4) ===
+Turn this rough prompt into a production-grade XMD prompt.
+Create a Custom GPT instruction set for this workflow.
+Audit this prompt for ambiguity, missing constraints, and weak output structure.
+Convert this process into a reusable XMD skill or agent harness.
